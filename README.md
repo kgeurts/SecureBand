@@ -17,7 +17,7 @@
 ### User Stories
  User stories
 
-| Nummer | als       | kan ik                                                     | zodat ik  (resultaat)                                   | prioriteit (*) |
+| Nummer | als       | kan ik                                                     | zodat ik  (resultaat)                                   | Veiligheid |
 |--------|-----------|------------------------------------------------------------|---------------------------------------------------------|----------------|
 | 1      | GEBRUIKER | De hele website doorzoeken                                 | snel info kan vinden                                    | SQL INJECTIE              |
 | 2      | GEBRUIKER | Wil ik een overzicht zien van alle posts                   | hij/zei een artikel kan kiezen bij mij aanspreekt.      | SQL INJECTIE             |
