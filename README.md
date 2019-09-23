@@ -14,6 +14,9 @@
 - Code staat openbaar op GitHub dus is gemakkelijk te checken op onveiligheden.
 - Database is slecht beveiligd.
 
+### Wat heb ik fout gedaan?
+- De website is niet uitgebreid getest.
+
 ### User Stories
  User stories
 
